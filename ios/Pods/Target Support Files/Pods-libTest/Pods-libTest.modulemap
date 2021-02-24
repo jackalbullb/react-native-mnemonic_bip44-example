@@ -1,0 +1,6 @@
+module Pods_libTest {
+  umbrella header "Pods-libTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
