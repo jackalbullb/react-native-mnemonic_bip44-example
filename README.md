@@ -28,3 +28,5 @@ Remember to change "UserName" to your own username.
 Run the app
 
 `react-native run-android`
+
+The app name is 'libTest'
