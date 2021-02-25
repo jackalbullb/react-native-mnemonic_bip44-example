@@ -18,10 +18,6 @@ Link required dependencies.
 
 `react-native link react-native-randombytes`
 
-Run the postinstall, it will create a shim.js file which you need to include in your index file.
-
-`npm run postinstall`
-
 Run the app
 
 `react-native run-android`
