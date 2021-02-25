@@ -215,7 +215,7 @@ export default function App() {
                 />
               </View>
               <Text style={styles.title}>Address Generated:</Text>
-              <Text>{address}</Text>
+              <Text style={styles.title}>{address}</Text>
             </View>
           </View>
 
