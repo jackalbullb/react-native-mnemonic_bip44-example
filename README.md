@@ -18,13 +18,6 @@ Link required dependencies.
 
 `react-native link react-native-randombytes`
 
-Caution: 
-If encounter unable to find sdk location on Mac.
-Go to ./android/, create a local.properties file and config it as following.
-Remember to change "UserName" to your own username.
-
-`sdk.dir = /Users/"UserName"/Library/Android/sdk`
-
 Run the app
 
 `react-native run-android`
