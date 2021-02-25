@@ -6,17 +6,13 @@ Go to project directory.
 
 `cd react-native-mnemonic_bip44-example`
 
-Install all dependencies.
-
-`npm install`
-
 Install rn-nodeify to be able to use Node.js libs.
 
 `npm i rn-nodeify -g`
 
-Add this postinstall script to install & hack the Node.js libs for the usage in React Native.
+Install all dependencies.
 
-`"postinstall": "rn-nodeify --install stream,buffer,events,assert,process,crypto --hack"`
+`npm install`
 
 Link required dependencies.
 
