@@ -18,8 +18,10 @@ Link required dependencies.
 
 `react-native link react-native-randombytes`
 
-Run the app
+Start the metro server.
 
-`react-native run-android`
+`npx react-native start`
 
-The app name is 'libTest'
+Run the app.
+
+`npx react-native run-android`
