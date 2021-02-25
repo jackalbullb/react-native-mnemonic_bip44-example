@@ -1,4 +1,4 @@
-# react-native-HDwallet-example
+# react-native-mnemonic_bip44-example
 
 Setup:
 
